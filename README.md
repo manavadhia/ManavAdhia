@@ -1,15 +1,3 @@
-Step 1: Delete all the placeholder text
-
-Everything you see in the file right now is template junk. Remove it completely.
-
-Your file should become blank.
-
-Step 2: Paste this clean, professional README
-
-This will immediately make your GitHub profile look intentional and job-ready:
-
-⸻
-
 Manav Adhia
 
 Customer Success • Implementation • SaaS • API Integrations
