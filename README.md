@@ -1,5 +1,3 @@
-Follow these exact steps. You’re already on the correct page.
-
 Step 1: Delete all the placeholder text
 
 Everything you see in the file right now is template junk. Remove it completely.
