@@ -26,7 +26,7 @@ Case studies on root cause analysis, resolution paths, and how process improveme
 **Repo:** [customer-success-escalation-analysis](https://github.com/manavadhia/customer-success-escalation-analysis)
 
 ## Tools & Skills
-Postman • SQL (basic) • Jira • Notion • Linear • CustomerSuccessBox • HubSpot  
+SQL (basic) • Jira • CustomerSuccessBox • HubSpot  
 REST APIs • OAuth flows • Workflow design • Escalation management • Integration troubleshooting
 
 ## Currently Working On
